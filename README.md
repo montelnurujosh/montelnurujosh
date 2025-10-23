@@ -48,25 +48,40 @@
 
 ## Pinned Projects
 <p align="center">
-  <a href="https://github.com/montelnurujosh/Personal_portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=montelnurujosh&repo=Personal_portfolio&theme=tokyonight" alt="Personal_portfolio" />
-  </a>
+  <div style="display:inline-block;margin:12px;text-align:center;max-width:220px;">
+    <a href="https://github.com/montelnurujosh/Personal_portfolio">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=montelnurujosh&repo=Personal_portfolio&theme=tokyonight" alt="Personal_portfolio" />
+    </a>
+    <p style="margin:6px 0 0;font-size:13px;color:#9ca3af;">Personal website & portfolio showcasing projects, about, and contact info.</p>
+  </div>
 
-  <a href="https://github.com/montelnurujosh/csv-analyzer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=montelnurujosh&repo=csv_analyzer&theme=tokyonight" alt="csv_analyzer" />
-  </a>
+  <div style="display:inline-block;margin:12px;text-align:center;max-width:220px;">
+    <a href="https://github.com/montelnurujosh/csv-analyzer">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=montelnurujosh&repo=csv-analyzer&theme=tokyonight" alt="csv-analyzer" />
+    </a>
+    <p style="margin:6px 0 0;font-size:13px;color:#9ca3af;">A modern CSV data viz web app (React, Vite, Recharts) with upload & interactive charts.</p>
+  </div>
 
-  <a href="https://github.com/montelnurujosh/Montel_vibes">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=montelnurujosh&repo=Montel_vibes&theme=tokyonight" alt="Montel_vibes" />
-  </a>
+  <div style="display:inline-block;margin:12px;text-align:center;max-width:220px;">
+    <a href="https://github.com/montelnurujosh/Montel_vibes">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=montelnurujosh&repo=Montel_vibes&theme=tokyonight" alt="Montel_vibes" />
+    </a>
+    <p style="margin:6px 0 0;font-size:13px;color:#9ca3af;">Frontend project focused on music vibes — UI experiments and audio features.</p>
+  </div>
 
-  <a href="https://github.com/montelnurujosh/LOGIC_OF_MATHS">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=montelnurujosh&repo=LOGIC_OF_MATHS&theme=tokyonight" alt="LOGIC_OF_MATHS" />
-  </a>
+  <div style="display:inline-block;margin:12px;text-align:center;max-width:220px;">
+    <a href="https://github.com/montelnurujosh/LOGIC_OF_MATHS">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=montelnurujosh&repo=LOGIC_OF_MATHS&theme=tokyonight" alt="LOGIC_OF_MATHS" />
+    </a>
+    <p style="margin:6px 0 0;font-size:13px;color:#9ca3af;">Collection of math notes, proofs, and logic problems — study-friendly references.</p>
+  </div>
 
-  <a href="https://github.com/montelnurujosh/PLP_HACKATHON1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=montelnurujosh&repo=PLP_HACKATHON1&theme=tokyonight" alt="PLP_HACKATHON1" />
-  </a>
+  <div style="display:inline-block;margin:12px;text-align:center;max-width:220px;">
+    <a href="https://github.com/montelnurujosh/PLP_HACKATHON1">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=montelnurujosh&repo=PLP_HACKATHON1&theme=tokyonight" alt="PLP_HACKATHON1" />
+    </a>
+    <p style="margin:6px 0 0;font-size:13px;color:#9ca3af;">Hackathon prototype built during PLP — fast iteration and MVP features.</p>
+  </div>
 </p>
 
 ---
@@ -82,4 +97,4 @@
 
 ---
 
-If you'd like more polish I can add short one-line descriptions under each pinned card, include demo GIFs/screenshots, or reorder the pinned projects. Tell me whether to (A) retry writing to main, (B) open a pull request for review, or (C) leave this file here for you to paste — and I’ll take the next step.
+If you'd like I can refine any of the descriptions, add a one-sentence demo note (e.g., "Live demo available"), or include a small screenshot/GIF for any project.

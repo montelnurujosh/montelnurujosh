@@ -48,10 +48,25 @@
 
 ## Pinned Projects
 <p align="center">
-  <a href="https://github.com/montelnurujosh/montelnurujosh">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=montelnurujosh&repo=montelnurujosh&theme=tokyonight" alt="montelnurujosh repo" />
+  <a href="https://github.com/montelnurujosh/Personal_portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=montelnurujosh&repo=Personal_portfolio&theme=tokyonight" alt="Personal_portfolio" />
   </a>
-  <!-- Add more pinned-project cards below by linking your repos -->
+
+  <a href="https://github.com/montelnurujosh/csv_analyzer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=montelnurujosh&repo=csv_analyzer&theme=tokyonight" alt="csv_analyzer" />
+  </a>
+
+  <a href="https://github.com/montelnurujosh/Montel_vibes">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=montelnurujosh&repo=Montel_vibes&theme=tokyonight" alt="Montel_vibes" />
+  </a>
+
+  <a href="https://github.com/montelnurujosh/LOGIC_OF_MATHS">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=montelnurujosh&repo=LOGIC_OF_MATHS&theme=tokyonight" alt="LOGIC_OF_MATHS" />
+  </a>
+
+  <a href="https://github.com/montelnurujosh/PLP_HACKATHON1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=montelnurujosh&repo=PLP_HACKATHON1&theme=tokyonight" alt="PLP_HACKATHON1" />
+  </a>
 </p>
 
 ---
@@ -67,4 +82,4 @@
 
 ---
 
-If you'd like further edits I can: add more pinned project cards, include a contributions calendar, or create a PR instead of pushing directly to main. For now I pushed this README directly to main so your profile shows the updated info immediately.
+If you'd like more polish I can add short one-line descriptions under each pinned card, include demo GIFs/screenshots, or reorder the pinned projects. Tell me whether to (A) retry writing to main, (B) open a pull request for review, or (C) leave this file here for you to paste — and I’ll take the next step.

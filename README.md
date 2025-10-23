@@ -52,7 +52,7 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=montelnurujosh&repo=Personal_portfolio&theme=tokyonight" alt="Personal_portfolio" />
   </a>
 
-  <a href="https://github.com/montelnurujosh/csv_analyzer">
+  <a href="https://github.com/montelnurujosh/csv-analyzer">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=montelnurujosh&repo=csv_analyzer&theme=tokyonight" alt="csv_analyzer" />
   </a>
 
